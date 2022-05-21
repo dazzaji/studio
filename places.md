@@ -6,8 +6,6 @@
 
 https://www.limonrestaurants.com/ 
 
-![Photo May 21, 2 20 26 PM](https://user-images.githubusercontent.com/2357755/169671013-01cf0842-52be-4aa8-991d-ca2c96f2bf10.png)
-
 
 ## Z Cafe & Bar (it’s a restaurant)
 2735 Broadway, Oakland, CA 94612
@@ -61,6 +59,4 @@ https://woodentablebaking.com/pages/cafe-new
 2523 Broadway, Oakland, CA 94612 
 
 https://royalcoffee.com/tasting-room/ 
-
-![Photo May 21, 2 19 54 PM](https://user-images.githubusercontent.com/2357755/169671042-42816980-ed2c-4db4-84a9-f98f83fdf514.jpg)
 
