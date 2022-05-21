@@ -1,4 +1,4 @@
-# [Studio](https://dazzaji.github.io/studio) Oakland
+# The [Studio](https://dazzaji.github.io/studio) Oakland
 
 ---------
 
