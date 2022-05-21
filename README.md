@@ -25,10 +25,12 @@ https://www.auoakland.com/
 
 ## Low Bar
 2300 Webster St, Oakland, CA 94612
+
 https://www.lowbaroakland.com/
 
 ## Mela Bistro
 35 Grand Ave, Oakland, CA 94612
+
 http://melabistro.com/ 
 
 ## The Melt
