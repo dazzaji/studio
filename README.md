@@ -1,4 +1,4 @@
-# the [studio](https://dazzaji.github.io/studio)
+# the [studio](https://dazzaji.github.io/studio) Oakland
 
 ---------
 
@@ -14,7 +14,7 @@ https://calaveraoakland.com/
 [https://www.limonrestaurants.com](https://www.limonrestaurants.com)
 
 
-## Z Cafe & Bar (it’s a restaurant)
+## Z Cafe & Bar 
 2735 Broadway, Oakland, CA 94612
 
 [https://www.zcafeandbar.com](https://www.zcafeandbar.com)
@@ -50,18 +50,18 @@ https://calaveraoakland.com/
 [https://www.spliteats.com](https://www.spliteats.com)
 
 
-## Sweet Bar Bakery
+## Sweet Bar Bakery (breakfast/lunch)
 2355 Broadway, Oakland, CA 94612
 
 [https://yelp.to/VI78ybEIdqb](https://yelp.to/VI78ybEIdqb)
 
 
-## Wooden Table 
+## Wooden Table (breakfast/lunch)
 2300 Broadway, Oakland, CA 94612
 
 [https://woodentablebaking.com/pages/cafe-new](https://woodentablebaking.com/pages/cafe-new)
 
-## The Crown: Royal Coffee Lab & Tasting Room
+## The Crown: Royal Coffee Lab & Tasting Room (coffee)
 2523 Broadway, Oakland, CA 94612 
 
 [https://royalcoffee.com/tasting-room](https://royalcoffee.com/tasting-room)
