@@ -2,6 +2,12 @@
 
 ---------
 
+## Calavera
+2337 Broadway, Oakland, CA 94612
+
+https://calaveraoakland.com/ 
+
+
 ## Limón
 2450 Valdez St, Oakland, CA 94612
 
@@ -43,10 +49,6 @@ https://www.themelt.com/
 
 https://www.spliteats.com/
 
-## Calavera
-2337 Broadway, Oakland, CA 94612
-
-https://calaveraoakland.com/ 
 
 ## Sweet Bar Bakery
 2355 Broadway, Oakland, CA 94612
