@@ -1,8 +1,9 @@
-# The [Studio](https://dazzaji.github.io/studio) Oakland
+# [Studio](https://dazzaji.github.io/studio) Oakland
 
 ---------
 
 ## Calavera
+
 2337 Broadway, Oakland, CA 94612
 
 [https://calaveraoakland.com](https://calaveraoakland.com)
@@ -11,6 +12,7 @@
 
 
 ## Limón
+
 2450 Valdez St, Oakland, CA 94612
 
 [https://www.limonrestaurants.com](https://www.limonrestaurants.com)
@@ -19,6 +21,7 @@
 
 
 ## Z Cafe & Bar 
+
 2735 Broadway, Oakland, CA 94612
 
 [https://www.zcafeandbar.com](https://www.zcafeandbar.com)
@@ -28,6 +31,7 @@
 
 
 ## Oakland MUA
+
 2442a Webster St, Oakland, CA 94612
 
 [https://muaoakland.com](https://muaoakland.com)
