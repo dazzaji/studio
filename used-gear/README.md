@@ -40,13 +40,13 @@
     *   Estimated New Retail: ~$15.00
     *   50% Value: $15.00 * 0.50 = **$7.50**
 
-9.  **Bass (Low-End 5-String):**
+9.  **Bass 5-String (New Strings):**
 * Front: https://github.com/dazzaji/studio/blob/main/used-gear/IMG_8523.jpeg
 * Back: https://github.com/dazzaji/studio/blob/main/used-gear/IMG_8524.jpeg
     *   Estimated New Retail Range: $200 - $300 (Average: ($200 + $300) / 2 = $250)
     *   50% Value: $250 * 0.50 = **$125.00**
 
-11.  **Bass Case (Low-End But Like-New Gig Bag):**
+11.  **Bass Case (Like-New Gig Bag):**
 * https://github.com/dazzaji/studio/blob/main/used-gear/IMG_8530.jpg
     *   Estimated New Retail Range: $20 - $40 (Average: ($20 + $40) / 2 = $30)
     *   50% Value: $30 * 0.50 = **$15.00**
